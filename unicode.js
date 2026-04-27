@@ -92,7 +92,7 @@ let thirdCodePoint = inputString1.charCodeAt(2); // 'd'
 
 
 // Task 2
-let wordFromCodePoints = String.fromCharCode(72, 101,108, 108); // Your code here
+let wordFromCodePoints = String.fromCharCode(74, 97, 118, 97, 83, 99, 114, 105, 112, 116); 
 
 
 
