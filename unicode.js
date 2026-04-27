@@ -121,7 +121,7 @@ console.log({
 /*                                                           
   ' First Code Point': 67,
   'Third Code Point': 100,
-  'Word from Code Points': 'JavaScript',
+  'Word from Code Points': 'Hell',
   'Swapped String:': 'hauncL'
 
  */
