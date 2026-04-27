@@ -116,3 +116,12 @@ console.log({
   "Word from Code Points":wordFromCodePoints,
  "Swapped String:":swappedString,
 });
+
+// Expected output
+/*  {                                                           
+  ' First Code Point': 67,
+  'Third Code Point': 100,
+  'Word from Code Points': 'JavaScript',
+  'Swapped String:': 'hauncL'
+}
+ */
